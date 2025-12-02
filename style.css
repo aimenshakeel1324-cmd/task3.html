@@ -1,0 +1,38 @@
+body{
+    height: 200vh;
+    width: 100%;
+}
+header{
+    width: 30%;
+    border: 2px solid white;
+}
+.maincontainer{
+    background-color: brown;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.leftcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 50%;
+    height: 50px;
+}
+.rightcontainer{
+    display: flex;
+}
+input{
+    width: 70%;
+    height: 30px;
+    background-color: brown;
+    border: 2px solid white;
+}
+form action{
+    height: 30px;
+    width: 70%;
+}
+
